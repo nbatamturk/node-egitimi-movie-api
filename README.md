@@ -1,3 +1,5 @@
+[![Build Status](https://api.travis-ci.org/nbatamturk/node-egitimi-movie-api.svg)](https://travis-ci.org/nbatamturk/node-egitimi-movie-api)
+
 # Movies
 
 | Route | HTTP Verb	 | POST body	 | Description	 |
